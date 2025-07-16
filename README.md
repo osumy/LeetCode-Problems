@@ -3,7 +3,7 @@
 
 ![](https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&amp;logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white)
-![](https://img.shields.io/badge/Problems-5-0078D4)
+![](https://img.shields.io/badge/Problems-7-0078D4)
 
 <table>
   <thead>
@@ -64,8 +64,28 @@
     <tr>
       <td>5</td>
       <td>
-        <a href="https://leetcode.com/problems/divisor-game/description/" target="_blank">
-          Divisor Game
+        <a href="https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/" target="_blank">
+          Longest Unequal Adjacent Groups Subsequence I
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>🟢</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+        <a href="https://leetcode.com/problems/count-numbers-with-unique-digits/description/" target="_blank">
+          Count Numbers with Unique Digits
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>🟡</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+        <a href="https://algo.monster/liteproblems/3032" target="_blank">
+          * Count Numbers With Unique Digits II
         </a>
       </td>
       <td>Easy</td>
